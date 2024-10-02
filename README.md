@@ -1,8 +1,9 @@
-Learning Platform
-A full stack Learning Platform built using Java Spring Boot for the backend and ReactJS for the frontend. This platform allows users to explore and enroll in various courses, purchase courses, and manage their progress. It also includes an admin portal for course and user management.
+**Learning Platform**
+A full stack Learning Platform built using Java Spring Boot for the backend and ReactJS for the frontend. This platform allows users to explore and 
+enroll in various courses,purchase courses, and manage their progress. It also includes an admin portal for course and user management.
 
-Features
-User Features
+**Features
+User Features**
 Sign up/Login: Users can create a new account or log in using their credentials.
 Course Catalog: Users can browse the course catalog and view details of each course.
 Purchase a Course: Users can purchase any course they are interested in.
@@ -17,10 +18,10 @@ Frontend: ReactJS
 Database: (e.g., MySQL/PostgreSQL) - Mention the database you used, if applicable
 Authentication: Implemented login and sign-up system
 
-
+**
 How to Run the Project
 
-Clone the repository:
+Clone the repository:**
 git clone <repository-url>
 
 Backend Setup:
@@ -31,8 +32,8 @@ mvn install
 
 Start the backend server:
 mvn spring-boot:run
-
-Frontend Setup:
+**
+Frontend Setup:**
 Navigate to the frontend directory:
 cd frontend
 Install dependencies:
